@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Certpin</string>
+    <string name="action_settings">Settings</string>
+    <string name="plain_https_request">Plain HTTPS Request</string>
+    <string name="textview">TextView</string>
+    <string name="https_pinned_request">HTTPS Pinned Request</string>
+</resources>
