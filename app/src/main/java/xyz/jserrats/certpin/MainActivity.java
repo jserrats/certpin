@@ -26,6 +26,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void makePinnedRequest(View view) {
-        // Do something in response to button
+        Log.d("MainActivity", "Sending intent to PinnedRequestActivity");
+        Intent intent = new Intent(this, PinnedRequestActivity.class);
+        startActivity(intent);
     }
 }
